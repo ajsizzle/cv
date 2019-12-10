@@ -1,12 +1,12 @@
   body {
     background-color: #e3f6f5;
+    line-height: 1.5;
+    font-family: 'Open Sans', sans-serif;
+
   }
 
   hr {
-    border-style: dotted none none;
-    border-width: 5px;
     border-color: lightgrey;
-    width: 5%
   }
 
   h1 {
@@ -16,5 +16,3 @@
   h3 {
     color: #66BFBF;
   }
-
-  
